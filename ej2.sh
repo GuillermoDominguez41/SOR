@@ -1,4 +1,9 @@
 #!/bin/bash
 
-echo chmod +x ej1.sh
+script=ej1.sh
+usuario="Guillermo"
+
+chmod 744 $script
+./$script $usuario
+
 exit
