@@ -1,0 +1,11 @@
+Como instalar Putty en Ubuntu:
+sudo apt update
+sudo apt install -y putty
+
+conexion:
+host:  wikisistemas.servehttp.com
+puerto: 9300
+
+usuario: sorc1g7
+pass: SOR123
+
